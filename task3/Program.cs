@@ -2,10 +2,12 @@
 
 string str = Console.ReadLine();
 
-for (int i = 0; i < str.Length; i++)
+string strNew = "";
+
+for (int i = str.Length - 1; i > 0; i--)
 {
-    for (int j = 0; j < str.Length; j++)
-    {
-        
-    }
+    strNew += str[i];
 }
+
+System.Console.WriteLine(str);
+System.Console.WriteLine(strNew);
