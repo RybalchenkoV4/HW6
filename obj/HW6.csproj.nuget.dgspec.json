@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Vladimir\\Desktop\\HW6\\task1\\task1.csproj": {}
+    "C:\\Users\\Vladimir\\Desktop\\HW6\\HW6.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Vladimir\\Desktop\\HW6\\task1\\task1.csproj": {
+    "C:\\Users\\Vladimir\\Desktop\\HW6\\HW6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Vladimir\\Desktop\\HW6\\task1\\task1.csproj",
-        "projectName": "task1",
-        "projectPath": "c:\\Users\\Vladimir\\Desktop\\HW6\\task1\\task1.csproj",
+        "projectUniqueName": "C:\\Users\\Vladimir\\Desktop\\HW6\\HW6.csproj",
+        "projectName": "HW6",
+        "projectPath": "C:\\Users\\Vladimir\\Desktop\\HW6\\HW6.csproj",
         "packagesPath": "C:\\Users\\Vladimir\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Vladimir\\Desktop\\HW6\\task1\\obj\\",
+        "outputPath": "C:\\Users\\Vladimir\\Desktop\\HW6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vladimir\\AppData\\Roaming\\NuGet\\NuGet.Config"
